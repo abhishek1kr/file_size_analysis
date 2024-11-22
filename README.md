@@ -1,4 +1,4 @@
-# **Large File Scanner and PDF Report**
+# **File_size_analysis**
 
 This is a Python tool that helps you find files larger than 1GB in a folder and creates a PDF report listing those files.
 
