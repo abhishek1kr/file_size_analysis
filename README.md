@@ -15,3 +15,48 @@ This is a Python tool that helps you find files larger than 1GB in a folder and 
    ```bash
    git clone https://github.com/your-username/large-file-scanner.git
    cd large-file-scanner
+
+## **Install the required libraries:**
+```bash
+pip install -r requirements.txt
+
+```
+## **Run the script:**
+```bash
+python large_file_scanner.py
+```
+## **Follow the steps:
+   1.Choose a folder to scan.
+   2.Save the PDF report.
+   3.Preview the PDF if you want.
+   
+##**What You Need**
+
+Python 3.6 or newer.
+Libraries:
+    -tkinter (built-in with Python).
+    -reportlab (to create PDF).
+    -webbrowser (to preview the PDF).
+    
+```bash
+pip install -r requirements.txt
+```
+##**Folder Structure**
+```
+large-file-scanner/
+├── large_file_scanner.py    # Main program
+├── requirements.txt         # List of libraries
+└── README.md                # This file
+```
+
+##**Author**
+
+This tool was created by **Abhishek Kumar**.
+Feel free to contact me if you have questions or suggestions!
+
+   
+
+   
+
+
+
