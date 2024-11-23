@@ -51,7 +51,7 @@ large-file-scanner/
 
 ##**Author**
 
-This tool was created by **Abhishek Kumar**, **AAkanchha kumari** ,**Sristi Raj** ,**Ashish kumar**.
+This tool was created by **Abhishek Kumar**, **Aakanchha kumari** ,**Sristi Raj** ,**Ashish kumar**.
 Feel free to contact me if you have questions or suggestions!
 
    
