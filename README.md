@@ -13,7 +13,7 @@ This is a Python tool that helps you find files larger than 1GB in a folder and 
 ## **How to Use**
 1. Download or clone this project:
    ```bash
-   git clone https://github.com/your-username/large-file-scanner.git
+   git clone https://github.com/abhishek1kr/file_size_analysis
    cd large-file-scanner
 
 ## **Install the required libraries:**
