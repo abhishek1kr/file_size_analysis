@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ```
 ## **Run the script:**
 ```bash
-python large_file_scanner.py
+python size.py
 ```
 ## **Follow the steps:
    1.Choose a folder to scan.
