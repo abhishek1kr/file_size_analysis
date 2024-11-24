@@ -17,20 +17,20 @@ This is a Python tool that helps you find files larger than 1GB in a folder and 
    cd file_size_analysis
 
 ## **Install the required libraries:**
-```bash
-pip install -r requirements.txt
+Libraries: -tkinter (built-in with Python).
+-reportlab (to create PDF).
+-webbrowser (to preview the PDF).
 
-```
 ## **Run the script:**
 ```bash
 python size.py
 ```
-## **Follow the steps:
+## Follow the steps:
    1.Choose a folder to scan.
    2.Save the PDF report.
    3.Preview the PDF if you want.
    
-##**What You Need**
+## **What You Need**
 
 Python 3.6 or newer.
 Libraries:
