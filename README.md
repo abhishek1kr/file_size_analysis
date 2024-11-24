@@ -38,9 +38,6 @@ Libraries:
     -reportlab (to create PDF).
     -webbrowser (to preview the PDF).
     
-```bash
-pip install -r requirements.txt
-```
 ##**Folder Structure**
 ```
 large-file-scanner/
